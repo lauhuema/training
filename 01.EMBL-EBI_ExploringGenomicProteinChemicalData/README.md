@@ -3,9 +3,7 @@
 This workshop has been organised for PhD students, Postgraduates and Faculty members within the Departments of Biochemistry, Cell Biology, Ecology, Food Biotechnology, Genetics, Medicine, and Microbiology, at University of Oviedo, Spain. 
 Participants will explore EMBL-EBI resources for genome browsing, gene expression, protein structure and protein-ligand interactions, diseases, targets and small molecules to illustrate how to navigate from one tool to the other. Activities will include presentations by the trainers, demonstrations and practical exercises by trainees to illustrate the use of the tools. Case studies will be used to demonstrate how to access relevant data and help answer research questions.
 
-### Trainer: Laura Huerta
-
-### Event Date: Wednesday 17 May 2017
+### Event Date: Monday 15 - Friday 19 May 2017
 
 ### Location: University of Oviedo - Calle San Francisco 1, 33003,  Oviedo,  Asturias, Spain
 
