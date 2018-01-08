@@ -1,12 +1,15 @@
 #  EMBL-EBI: Exploring genomic, protein and chemical data, Oviedo
 
-## Trainer: Laura Huerta
+This workshop has been organised for PhD students, Postgraduates and Faculty members within the Departments of Biochemistry, Cell Biology, Ecology, Food Biotechnology, Genetics, Medicine, and Microbiology, at University of Oviedo, Spain. 
+Participants will explore EMBL-EBI resources for genome browsing, gene expression, protein structure and protein-ligand interactions, diseases, targets and small molecules to illustrate how to navigate from one tool to the other. Activities will include presentations by the trainers, demonstrations and practical exercises by trainees to illustrate the use of the tools. Case studies will be used to demonstrate how to access relevant data and help answer research questions.
 
-## Event Date: Wednesday 17 May 2017
+### Trainer: Laura Huerta
 
-## Location: University of Oviedo - Calle San Francisco 1, 33003,  Oviedo,  Asturias, Spain
+### Event Date: Wednesday 17 May 2017
 
-## More details in [here][1]
+### Location: University of Oviedo - Calle San Francisco 1, 33003,  Oviedo,  Asturias, Spain
+
+### More details in [here][1]
 
 
 [1]: https://www.ebi.ac.uk/training/events/2017/embl-ebi-exploring-genomic-protein-and-chemical-data-oviedo
