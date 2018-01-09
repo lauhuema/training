@@ -8,6 +8,7 @@ Training material for [ArrayExpress][1] and [Expression Atlas][2] presented at t
  - [EMBL-EBI resources and tools for genomics and proteomics](05.EMBL-EBI_ResourcesToolsForGenomicsProteomics/)
 
 If you wish to re-use these materials, please credit the author, Laura Huerta. 
+
 If you use Expression Atlas for your work, please cite us!: Papatheodorou et al. 2018. Expression Atlas: gene and protein expression across multiple studies and organisms. Nucleic Acids Res. 46: D246-51.
 
 [1]: https://www.ebi.ac.uk/arrayexpress/
