@@ -1,4 +1,4 @@
-# EMBL-EBI Bioinformatics resources for exploring functional genomics data
+# EMBL-EBI resources and tools for genomics and proteomics
 
 In this course participants, will explore EMBL-EBI data and resources for genomes, functional genomics, sequences, protein structure and function, and protein-ligand interactions. The course is divided into two parts:
 
