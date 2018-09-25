@@ -13,7 +13,7 @@ This workshop is designed for researchers interested in learning about functiona
 This training material is authored by Laura Huerta.
 For any questions related to this topic and the content, please contact Laura Huerta.
 
-#### More details in [here][1]
+#### More details in [here][3]
 
 [1]: https://www.ebi.ac.uk/arrayexpress/
 [2]: https://www.ebi.ac.uk/gxa/home
