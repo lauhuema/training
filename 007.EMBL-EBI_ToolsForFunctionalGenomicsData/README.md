@@ -32,7 +32,7 @@ After this course you should be able to:
 | 14:30 - 15:00 | Tea and coffee break |
 | 15:00 - 16:00 | Annotare: ‘your’ web-form submission tool |
 | 16:00 - 17:00 | Hands-on session: data submission with Annotare |
-| 17:00 – 17:15 | Wrap up and feedback |
+| 17:00 - 17:15 | Wrap up and feedback |
 
 
 #### Contributors
